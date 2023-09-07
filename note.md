@@ -1,4 +1,5 @@
-# Chapter 2 Notes
+#  Chapter 2 Notes
+
 ## 2.1: 
       The concept of computing in a "cloud" has its origins in utility computing, proposed by computer scientistJohn McCarthy in 1961
       Back in 1990s, the idea of compyter utilities began to take shape with the emergence of internet-based services like search engines, email, and socail media platform. 
