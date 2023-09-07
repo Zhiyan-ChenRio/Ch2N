@@ -1,5 +1,4 @@
 #  Chapter 2 Notes
-
 ## 2.1: 
       The concept of computing in a "cloud" has its origins in utility computing, proposed by computer scientistJohn McCarthy in 1961
       Back in 1990s, the idea of compyter utilities began to take shape with the emergence of internet-based services like search engines, email, and socail media platform. 
@@ -36,7 +35,10 @@
       4. Increase speed and agility: reduce time and make resources avaiable
       5. Stop spending money on running and maintaining data centers: save money
       6. Go global in minutes: you can access data anywhere in the world
-## 2.8 & 2.9: Cloud computoing services: 
-      1. SAAS: Software as a service
-      2. PAAS: Platform as a service
-      3. IAAS: Infrastructure as a service
+## 2.8, 2.9, 2.10, 2.11, 2.12 & 2.13: Cloud computoing services: 
+      1. SAAS: Software as a service: allows user to connect and use cloud-based apps over the internet; accessable 
+      2. PAAS: Platform as a service: a complete development and deployment environment in the cloud; make coding time moren efficient
+      3. IAAS: Infrastructure as a service:  an instant computing, infrastructure, provisioned and managed over the Internet; more valuable for businesses to test new ideas and halps reduct cost and funding
+## 2.14 Cloud Computing Deployment Models:
+      manages and arrange to determine what matters the most and provides saclibility and flexibility in economical way; Cloud, Hybrid, and on-premises have provided user more option and saves money from the physical setup
+      
